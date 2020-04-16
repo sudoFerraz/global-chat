@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "546719358928",
+    "firebase_url": "https://globalchat-cd567.firebaseio.com",
+    "project_id": "globalchat-cd567",
+    "storage_bucket": "globalchat-cd567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546719358928:android:a4ab705fc36a165d3f23d5",
+        "android_client_info": {
+          "package_name": "com.example.globalchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546719358928-gm5bavdhdcq5csgt9nfmp8rgo31922jq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.globalchat",
+            "certificate_hash": "6f31f89807fc9883b2b7c5e1707581622cb2d327"
+          }
+        },
+        {
+          "client_id": "546719358928-44ldchsl8pft02i2iai977klnd51phh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1q_4Tcp4E7eV3VSqOtWzKk0xyQFMylyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546719358928-44ldchsl8pft02i2iai977klnd51phh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
